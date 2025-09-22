@@ -20,7 +20,8 @@ public class LanguageCodeConverter {
     private final Map<String, String> languageToLanguageCode = new HashMap<>();
 
     /**
-     * Default constructor that loads the language codes from "language-codes.txt"
+     * Default
+     * constructor that loads the language codes from "language-codes.txt"
      * in the resources folder.
      */
     public LanguageCodeConverter() {
